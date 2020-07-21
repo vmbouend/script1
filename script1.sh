@@ -1,7 +1,7 @@
 
 
 #!/bin/bash
-Descriptipn: Script to display system info
+Date july 2020
 cat /etc/*release
 lsblk
 lscpu
